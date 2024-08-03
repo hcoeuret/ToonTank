@@ -11,3 +11,7 @@ Clone the repo and launch it through the unreal editor. You can also generate th
 In this game, you control a tank with your arrow keys and shoot with your left mouse button. You win the game by killing all the turrets on the map. Don't get killed first :)
 
 Good luck and have fun !
+
+<p align="center">
+  <img src="IntroGif.gif" width="250" height="250"/>
+</p>
