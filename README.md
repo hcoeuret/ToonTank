@@ -13,5 +13,5 @@ In this game, you control a tank with your arrow keys and shoot with your left m
 Good luck and have fun !
 
 <p align="center">
-  <img src="IntroGif.gif" width="250" height="250"/>
+  <img src="IntroGif.gif" width="444" height="250"/>
 </p>
